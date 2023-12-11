@@ -1,0 +1,121 @@
+month,city,variation,city_abbr,state,month_num
+January,Charlotte,0.4,CLT,North Carolina,1
+February,Charlotte,-6.2,CLT,North Carolina,2
+March,Charlotte,3.1,CLT,North Carolina,3
+April,Charlotte,3.1,CLT,North Carolina,4
+May,Charlotte,4.5,CLT,North Carolina,5
+June,Charlotte,5.1,CLT,North Carolina,6
+July,Charlotte,-0.7,CLT,North Carolina,7
+August,Charlotte,-0.8,CLT,North Carolina,8
+September,Charlotte,1.6,CLT,North Carolina,9
+October,Charlotte,2.9,CLT,North Carolina,10
+November,Charlotte,-3.3,CLT,North Carolina,11
+December,Charlotte,3.5,CLT,North Carolina,12
+January,Chicago,0.6,MDW,Illinois,1
+February,Chicago,-10.4,MDW,Illinois,2
+March,Chicago,-0.6,MDW,Illinois,3
+April,Chicago,2.1,MDW,Illinois,4
+May,Chicago,2.8,MDW,Illinois,5
+June,Chicago,-0.7,MDW,Illinois,6
+July,Chicago,-3.4,MDW,Illinois,7
+August,Chicago,1.5,MDW,Illinois,8
+September,Chicago,-0.1,MDW,Illinois,9
+October,Chicago,0.7,MDW,Illinois,10
+November,Chicago,-5.0,MDW,Illinois,11
+December,Chicago,5.8,MDW,Illinois,12
+January,Houston,-3.1,KHOU,Texas,1
+February,Houston,-3.6,KHOU,Texas,2
+March,Houston,-0.1,KHOU,Texas,3
+April,Houston,3.2,KHOU,Texas,4
+May,Houston,0.2,KHOU,Texas,5
+June,Houston,0.0,KHOU,Texas,6
+July,Houston,-0.4,KHOU,Texas,7
+August,Houston,0.1,KHOU,Texas,8
+September,Houston,1.0,KHOU,Texas,9
+October,Houston,1.5,KHOU,Texas,10
+November,Houston,-4.6,KHOU,Texas,11
+December,Houston,2.7,KHOU,Texas,12
+January,Indianapolis,-2.5,IND,Indiana,1
+February,Indianapolis,-11.7,IND,Indiana,2
+March,Indianapolis,-2.8,IND,Indiana,3
+April,Indianapolis,1.6,IND,Indiana,4
+May,Indianapolis,4.3,IND,Indiana,5
+June,Indianapolis,0.8,IND,Indiana,6
+July,Indianapolis,-5.0,IND,Indiana,7
+August,Indianapolis,0.0,IND,Indiana,8
+September,Indianapolis,-1.3,IND,Indiana,9
+October,Indianapolis,-0.6,IND,Indiana,10
+November,Indianapolis,-7.5,IND,Indiana,11
+December,Indianapolis,1.9,IND,Indiana,12
+January,Jacksonville,0.4,JAX,Florida,1
+February,Jacksonville,-4.9,JAX,Florida,2
+March,Jacksonville,3.8,JAX,Florida,3
+April,Jacksonville,5.3,JAX,Florida,4
+May,Jacksonville,0.8,JAX,Florida,5
+June,Jacksonville,1.0,JAX,Florida,6
+July,Jacksonville,-0.4,JAX,Florida,7
+August,Jacksonville,0.4,JAX,Florida,8
+September,Jacksonville,-0.2,JAX,Florida,9
+October,Jacksonville,-0.7,JAX,Florida,10
+November,Jacksonville,-5.0,JAX,Florida,11
+December,Jacksonville,3.1,JAX,Florida,12
+January,Los Angeles,4.3,CQT,California,1
+February,Los Angeles,5.5,CQT,California,2
+March,Los Angeles,7.8,CQT,California,3
+April,Los Angeles,3.0,CQT,California,4
+May,Los Angeles,-1.4,CQT,California,5
+June,Los Angeles,1.6,CQT,California,6
+July,Los Angeles,1.4,CQT,California,7
+August,Los Angeles,1.4,CQT,California,8
+September,Los Angeles,3.6,CQT,California,9
+October,Los Angeles,4.5,CQT,California,10
+November,Los Angeles,3.9,CQT,California,11
+December,Los Angeles,1.7,CQT,California,12
+January,New York,-2.5,KNYC,New York,1
+February,New York,-11.1,KNYC,New York,2
+March,New York,-4.1,KNYC,New York,3
+April,New York,1.6,KNYC,New York,4
+May,New York,6.3,KNYC,New York,5
+June,New York,0.0,KNYC,New York,6
+July,New York,0.0,KNYC,New York,7
+August,New York,-0.6,KNYC,New York,8
+September,New York,1.9,KNYC,New York,9
+October,New York,2.9,KNYC,New York,10
+November,New York,-2.3,KNYC,New York,11
+December,New York,3.2,KNYC,New York,12
+January,Philadelphia,-1.7,PHL,Pennsylvania,1
+February,Philadelphia,-9.8,PHL,Pennsylvania,2
+March,Philadelphia,-4.2,PHL,Pennsylvania,3
+April,Philadelphia,1.5,PHL,Pennsylvania,4
+May,Philadelphia,6.3,PHL,Pennsylvania,5
+June,Philadelphia,1.8,PHL,Pennsylvania,6
+July,Philadelphia,0.1,PHL,Pennsylvania,7
+August,Philadelphia,-1.6,PHL,Pennsylvania,8
+September,Philadelphia,1.6,PHL,Pennsylvania,9
+October,Philadelphia,2.5,PHL,Pennsylvania,10
+November,Philadelphia,-2.2,PHL,Pennsylvania,11
+December,Philadelphia,3.8,PHL,Pennsylvania,12
+January,Pheonix,2.5,PHX,Arizona,1
+February,Pheonix,6.1,PHX,Arizona,2
+March,Pheonix,7.2,PHX,Arizona,3
+April,Pheonix,1.8,PHX,Arizona,4
+May,Pheonix,-3.1,PHX,Arizona,5
+June,Pheonix,3.4,PHX,Arizona,6
+July,Pheonix,1.8,PHX,Arizona,7
+August,Pheonix,-1.8,PHX,Arizona,8
+September,Pheonix,0.9,PHX,Arizona,9
+October,Pheonix,3.5,PHX,Arizona,10
+November,Pheonix,2.2,PHX,Arizona,11
+December,Pheonix,2.6,PHX,Arizona,12
+January,Seattle,3.2,KSEA,Washington,1
+February,Seattle,5.5,KSEA,Washington,2
+March,Seattle,4.2,KSEA,Washington,3
+April,Seattle,1.3,KSEA,Washington,4
+May,Seattle,3.3,KSEA,Washington,5
+June,Seattle,7.0,KSEA,Washington,6
+July,Seattle,3.8,KSEA,Washington,7
+August,Seattle,3.3,KSEA,Washington,8
+September,Seattle,3.7,KSEA,Washington,9
+October,Seattle,5.4,KSEA,Washington,10
+November,Seattle,0.8,KSEA,Washington,11
+December,Seattle,5.0,KSEA,Washington,12
